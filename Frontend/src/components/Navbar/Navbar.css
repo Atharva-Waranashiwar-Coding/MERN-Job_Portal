@@ -1,0 +1,53 @@
+.navbar {
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+
+.menu-icon {
+    margin-right: 10px;
+}
+
+.navbar-brand {
+    flex-grow: 1;
+}
+.hello{
+    margin-top: 20px;
+}
+.logout-button,
+.login-button {
+    margin-left: 10px;
+}
+
+.drawer {
+    width: 240px;
+}
+
+.drawer-item {
+    padding: 10px 20px;
+}
+
+.drawer-item:hover {
+    background-color: #f0f0f0;
+}
+
+/* Color schemes */
+.navbar {
+    background-color: #18206F; /* Dark blue */
+    color: #F5E2C8; /* Light cream */
+}
+
+.menu-icon,
+.logout-button,
+.login-button {
+    color: #F5E2C8; /* Light cream */
+}
+
+.drawer-item .MuiTypography-root {
+    color: #18206F; /* Dark blue */
+}
+
+
+.drawer-item:hover .MuiTypography-root:hover {
+    background-color: #D88373; /* Light red */
+    color: #F5E2C8; /* Light cream */
+}

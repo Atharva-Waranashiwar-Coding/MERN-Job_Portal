@@ -1,0 +1,52 @@
+/* Page.css */
+
+/* Container styles */
+.page-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  /* Card container styles using CSS Grid */
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns with equal width */
+    gap: 20px; /* Add gap between cards */
+    justify-content: center; /* Center align cards horizontally */
+  }
+  
+  /* Card styles */
+  .card {
+    width: 100%; /* Ensure cards occupy full width of grid cell */
+    max-width: 300px; /* Set maximum width for better layout */
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Add transition for smoother hover effect */
+  }
+  
+  /* Card content styles */
+  .card-content {
+    padding: 20px;
+  }
+  
+  /* Card title styles */
+  .card-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px !important;
+  }
+  
+  /* Card description styles */
+  .card-description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px !important;
+  }
+  
+  /* Hover effect styles */
+  .card:hover {
+    transform: translateY(-5px); /* Lift card slightly on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add stronger box shadow on hover */
+  }
+  

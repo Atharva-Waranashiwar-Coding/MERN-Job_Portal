@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "ABC Technologies",
+      "location": "New York, NY",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 2 days ago"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "XYZ Corporation",
+      "location": "San Francisco, CA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 3 days ago"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "company": "123 Design Studio",
+      "location": "Los Angeles, CA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 1 days ago"
+    },
+    {
+      "id": 4,
+      "title": "Data Analyst",
+      "company": "Data Insights Inc.",
+      "location": "Chicago, IL",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 3 days ago"
+    },
+    {
+      "id": 5,
+      "title": "Full Stack Developer",
+      "company": "Tech Innovations",
+      "location": "Seattle, WA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 5 days ago"
+    },
+    {
+      "id": 6,
+      "title": "Product Manager",
+      "company": "Innovate Solutions",
+      "location": "Austin, TX",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 6 days ago"
+    },
+    {
+      "id": 7,
+      "title": "DevOps Engineer",
+      "company": "Cloud Solutions Ltd.",
+      "location": "Denver, CO",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 4 days ago"
+    },
+    {
+      "id": 8,
+      "title": "Marketing Specialist",
+      "company": "Global Marketing Agency",
+      "location": "Miami, FL",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 2 days ago"
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Analyst",
+      "company": "Secure Networks Inc.",
+      "location": "Washington, D.C.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 1 days ago"
+    },
+    {
+      "id": 10,
+      "title": "Sales Representative",
+      "company": "Sales Solutions LLC",
+      "location": "Atlanta, GA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 1 days ago"
+    },
+    {
+      "id": 11,
+      "title": "HR Coordinator",
+      "company": "HR Solutions Group",
+      "location": "Boston, MA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 1 days ago"
+    },
+    {
+      "id": 12,
+      "title": "Financial Analyst",
+      "company": "Financial Insights Ltd.",
+      "location": "Philadelphia, PA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 5 days ago"
+    },
+    {
+      "id": 13,
+      "title": "Content Writer",
+      "company": "Content Creations Inc.",
+      "location": "Portland, OR",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 6 days ago"
+    },
+    {
+      "id": 14,
+      "title": "Graphic Designer",
+      "company": "Creative Designs Studio",
+      "location": "San Diego, CA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 7 days ago"
+    },
+    {
+      "id": 15,
+      "title": "Quality Assurance Analyst",
+      "company": "Quality Assurance Solutions",
+      "location": "Houston, TX",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum sapien eget dolor...",
+      "lastUpdated": "Last Updated 8 days ago"
+    }
+  ]
+  

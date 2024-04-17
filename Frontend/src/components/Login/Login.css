@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+.container h2 {
+  margin-bottom: 20px;
+  color: #18206F;
+}
+
+.container p {
+  margin-bottom: 10px;
+  color: #BD1E1E;
+}
+
+.container > * {
+  margin-bottom: 15px !important;
+}
+
+.container > *:last-child {
+  margin-bottom: 0;
+}
+
+.input-field {
+  color: #17255A;
+}
+
+.submit-button {
+  background-color: #18206F;
+  color: white;
+}
+
+.submit-button:hover {
+  background-color: #0F143E;
+}
