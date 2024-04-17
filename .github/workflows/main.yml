@@ -40,5 +40,5 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: frontend/build
+          FOLDER: Frontend/build
           CLEAN: true
