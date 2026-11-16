@@ -3,3 +3,9 @@
 # dependencies
 Backend/node_modules
 Frontendend/node_modules
+
+# Local configuration and dependencies
+.env
+.env.*
+!.env.example
+node_modules/
